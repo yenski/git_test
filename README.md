@@ -1,0 +1,1 @@
+This is Yenski's first git project!
